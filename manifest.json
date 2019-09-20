@@ -1,12 +1,12 @@
 {
-  "name": "tris-webpack-boilerplate",
-  "short_name": "tris-webpack-boilerplate",
+  "name": "JH words",
+  "short_name": "jh_words",
   "description": null,
   "dir": "auto",
   "lang": "en-US",
   "display": "standalone",
-  "orientation": "any",
-  "start_url": "/?homescreen=1",
+  "orientation": "portrait",
+  "start_url": "./?utm_source=homescreen",
   "background_color": "#fff",
   "icons": [
     {
